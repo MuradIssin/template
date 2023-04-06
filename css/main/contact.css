@@ -164,6 +164,7 @@
   .contact__input-block {
     margin-bottom: 45px;
     gap: 15px;
+    width: 290px;
   }
 
   .contact__input-field {
